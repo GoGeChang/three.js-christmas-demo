@@ -1,1 +1,2 @@
-# three.js-christmas-demo
+# three.js-christmas-demo 
+使用threee.js并载入圣诞树的模型文件来描绘的圣诞场景，其中包括了聚光灯，环境光，天空盒，模型载入，空间位置调整，3D动画，精灵系统完成了下雪的功能。
